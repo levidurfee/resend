@@ -1,0 +1,16 @@
+{
+    "name": "levidurfee/resend",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Levi\\Resend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Levi Durfee",
+            "email": "levi.durfee@gmail.com"
+        }
+    ]
+}
